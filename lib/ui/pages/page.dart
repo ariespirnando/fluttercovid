@@ -1,0 +1,12 @@
+import 'package:covidflud/blocs/bloc.dart';
+import 'package:covidflud/blocs/page/page_bloc.dart';
+import 'package:covidflud/models/model.dart'; 
+import 'package:covidflud/shares/share.dart';
+import 'package:covidflud/ui/widgets/widget.dart';
+import 'package:flutter/material.dart';
+import 'package:flutter_bloc/flutter_bloc.dart';
+import 'package:flutter_spinkit/flutter_spinkit.dart'; 
+part 'home_page.dart';
+part 'list_provinsi_page.dart';
+part 'wrapper.dart';
+part 'list_kasus_page.dart';
